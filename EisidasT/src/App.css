@@ -46,3 +46,8 @@ div {
   color: black;
 }
 
+.priority{
+  font-weight: bold;
+  color: green;
+}
+
